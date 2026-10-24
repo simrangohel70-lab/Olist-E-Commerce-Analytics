@@ -6,7 +6,8 @@
 
 
 **File Format:** `.pbix`  
-**Tool Required:** Microsoft Power BI Desktop
+**Tool Required:** Microsoft Power BI 
+
 
 ## 🎥 Project Demo Video
 
