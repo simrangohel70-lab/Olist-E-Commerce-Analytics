@@ -3,13 +3,16 @@
 ## 📥 Download Power BI Project
 
 🔗 [Download Olist E-Commerce Analytics Dashboard] https://drive.google.com/file/d/1FEQZgBH2CFoT1u1tLkTNJMkc31NfUoha/view?usp=drive_link
+
+
 **File Format:** `.pbix`  
 **Tool Required:** Microsoft Power BI Desktop
 
-\<p align="center">   \<strong>📊 An Interactive Business Intelligence Project\</strong>\<br>   Turning Brazilian E-Commerce Data into Actionable Insights \</p>
+## 🎥 Project Demo Video
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)" alt="Power BI">   \<img src="[https://img.shields.io/badge/Power%20Query-ETL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white](https://img.shields.io/badge/Power%20Query-ETL-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)" alt="Power Query">   \<img src="[https://img.shields.io/badge/DAX-Data%20Analysis-512BD4?style=for-the-badge](https://img.shields.io/badge/DAX-Data%20Analysis-512BD4?style=for-the-badge)" alt="DAX">   \<img src="[https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)" alt="Kaggle"> \</p>
+Watch the complete project walkthrough to see the data preparation, data modeling, DAX measures, and interactive Power BI dashboard.
 
+▶️ https://drive.google.com/file/d/11BOgmLcHkZyWxM1o8QD6mkqhG1gO_XCX/view?usp=drive_link
 ---
 
 ## 📌 Table of Contents
@@ -218,6 +221,9 @@ Added year, order status, and product category slicers where appropriate to supp
 
 ## 🧩 Data Model
 
+<img width="1146" height="723" alt="Screenshot 2026-10-23 171141" src="https://github.com/user-attachments/assets/8548ac33-222d-445b-b2e5-fb0d136e9fff" />
+
+
 The model uses related tables organized for analytical reporting.
 
 ### Fact Tables
@@ -350,20 +356,17 @@ Olist-Ecommerce-Analytics/
 
 ### 🏠 Sales Overview
 
-\<!-- Add your Sales Overview screenshot to the Screenshots folder and update the path below. -->
-
+<img width="1200" height="672" alt="Screenshot 2026-10-23 170826" src="https://github.com/user-attachments/assets/3574bbb0-0865-4a51-bcb8-ff4a68abf86b" />
 
 
 ### 🗺️ Geographic Analysis
 
-\<!-- Add your Geographic Analysis screenshot to the Screenshots folder and update the path below. -->
-
+<img width="1197" height="676" alt="Screenshot 2026-10-23 170939" src="https://github.com/user-attachments/assets/9e608da4-ed6b-4681-9149-d58b373f0807" />
 
 
 ### 💳 Payments & Reviews
 
-\<!-- Add your Payments & Reviews screenshot to the Screenshots folder and update the path below. -->
-
+<img width="1198" height="676" alt="Screenshot 2026-10-23 171039" src="https://github.com/user-attachments/assets/e5d28097-ba11-402c-b36b-f3f195a887c2" />
 
 
 ---
